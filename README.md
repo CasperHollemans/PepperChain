@@ -1,8 +1,10 @@
-![PepperChain logo](logo.png "PepperChain Logo")
-
 # PepperChain
 
-PepperChain 🌶️, is a exploratory blockchain project to learn and get hands-on experience. It's focused on the
+<img src="logo.png" alt="PepperChain Logo" width="200" height="200">
+
+-------
+
+PepperChain️, is a exploratory blockchain project to learn and get hands-on experience. It's focused on the
 implementing the fundamental aspects of a blockchain.
 
 ## Features
@@ -38,7 +40,8 @@ transactions that are associated with your wallet address you can determine your
 
 When a new transaction is created it will be verified by the network. The network will verify if the transaction is
 valid by checking the digital signature of the transaction and balance of the sender. After verification the node(s)
-that verified the transaction will propagate it further to other nodes for verification. Finally the transaction is added
+that verified the transaction will propagate it further to other nodes for verification. Finally the transaction is
+added
 to the memory pool, waiting to be included in a block.
 
 ### Peer to Peer Network
